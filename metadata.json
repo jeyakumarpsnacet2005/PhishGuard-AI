@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "A real-time, AI-powered web tool to detect phishing threats in emails, messages, and links, providing users with an instant risk assessment and explainable insights.",
+  "requestFramePermissions": []
+}
